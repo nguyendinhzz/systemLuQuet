@@ -1,0 +1,8 @@
+{
+    "water_station": {
+        "warning_level": "243"
+    },
+    "vibration_station": {
+        "threshold": "25"
+    }
+}
